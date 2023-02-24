@@ -1,0 +1,33 @@
+*{
+    background-color: #ffffff;
+}
+table
+{
+    text-align: center;
+    position: relative;
+    border: 3px solid black;
+    box-shadow: 10px 10px 5px 3px black ;
+    margin-top:5%;
+}
+.day
+{
+    background-color: #a5a5a5;
+}
+.th
+{
+    background-color: #CCCCFF;
+}
+.lh
+{
+    background-color: #83c5e3;
+}
+.slot
+{
+    background-color: rgb(243, 236, 166);
+    height: 9vh;
+}
+#ext
+{
+    color: rgb(209, 70, 70);
+}
+
